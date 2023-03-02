@@ -1,0 +1,8 @@
+-->1  ubuntu常用更新系统命令
+
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
+sudo aptitude upgrade
+
+

@@ -1,0 +1,10 @@
+#add by sufg
+
+alias cdc='cd /home/sufg/proc/test/'
+alias cdcc='cd /home/sufg/proc/'
+alias cdp='cd /home/sufg/propy/'
+alias cdlog='cd /home/sufg/log/'
+alias csrc='cd /home/sufg/proc/src/'
+alias psrc='cd /home/sufg/propy/src/'
+alias cdbin='cd /home/sufg/proc/bin/'
+alias cdh='cd /home/sufg/proc/include/'

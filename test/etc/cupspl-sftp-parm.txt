@@ -1,0 +1,1 @@
+sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir
