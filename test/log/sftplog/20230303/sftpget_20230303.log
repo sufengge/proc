@@ -1,0 +1,2225 @@
+[sftpget.sh][*****************************START****************************************][20230303 11:45:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:45:09]  
+[sftpget.sh][*****************************START****************************************][20230303 11:46:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:46:11]  
+[sftpget.sh][*****************************START****************************************][20230303 11:47:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:47:11]  
+[sftpget.sh][*****************************START****************************************][20230303 11:48:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:48:13]  
+[sftpget.sh][*****************************START****************************************][20230303 11:49:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:49:11]  
+[sftpget.sh][*****************************START****************************************][20230303 11:50:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:50:13]  
+[sftpget.sh][*****************************START****************************************][20230303 11:51:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:51:09]  
+[sftpget.sh][*****************************START****************************************][20230303 11:52:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:52:11]  
+[sftpget.sh][*****************************START****************************************][20230303 11:53:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:53:13]  
+[sftpget.sh][*****************************START****************************************][20230303 11:54:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:54:11]  
+[sftpget.sh][*****************************START****************************************][20230303 11:55:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:55:11]  
+[sftpget.sh][*****************************START****************************************][20230303 11:56:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:56:09]  
+[sftpget.sh][*****************************START****************************************][20230303 11:57:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:57:09]  
+[sftpget.sh][*****************************START****************************************][20230303 11:58:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:58:11]  
+[sftpget.sh][*****************************START****************************************][20230303 11:59:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 11:59:09]  
+[sftpget.sh][*****************************START****************************************][20230303 12:00:02]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:00:12]  
+[sftpget.sh][*****************************START****************************************][20230303 12:01:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:01:12]  
+[sftpget.sh][*****************************START****************************************][20230303 12:02:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:02:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:03:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:03:09]  
+[sftpget.sh][*****************************START****************************************][20230303 12:04:02]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:04:10]  
+[sftpget.sh][*****************************START****************************************][20230303 12:05:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:05:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:06:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:06:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:07:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:07:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:08:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:08:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:09:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:09:12]  
+[sftpget.sh][*****************************START****************************************][20230303 12:10:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:10:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:11:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:11:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:12:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:12:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:13:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:13:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:14:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:14:12]  
+[sftpget.sh][*****************************START****************************************][20230303 12:15:02]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:15:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:16:02]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:16:10]  
+[sftpget.sh][*****************************START****************************************][20230303 12:17:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:17:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:18:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:18:09]  
+[sftpget.sh][*****************************START****************************************][20230303 12:19:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:19:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:20:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:20:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:21:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:21:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:37:33]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:37:43]  
+[sftpget.sh][*****************************START****************************************][20230303 12:38:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:38:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:39:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:39:09]  
+[sftpget.sh][*****************************START****************************************][20230303 12:40:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:40:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:41:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:41:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:42:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:42:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:43:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:43:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:44:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:44:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:45:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:45:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:46:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:46:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:47:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:47:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:48:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:48:07]  
+[sftpget.sh][*****************************START****************************************][20230303 12:49:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:49:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:50:02]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:50:12]  
+[sftpget.sh][*****************************START****************************************][20230303 12:51:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:51:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:52:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:52:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:53:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:53:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:54:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:54:09]  
+[sftpget.sh][*****************************START****************************************][20230303 12:55:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:55:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:56:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:56:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:57:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:57:13]  
+[sftpget.sh][*****************************START****************************************][20230303 12:58:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:58:11]  
+[sftpget.sh][*****************************START****************************************][20230303 12:59:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 12:59:13]  
+[sftpget.sh][*****************************START****************************************][20230303 13:00:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:00:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:01:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:01:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:02:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:02:09]  
+[sftpget.sh][*****************************START****************************************][20230303 13:03:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:03:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:04:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:04:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:05:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:05:13]  
+[sftpget.sh][*****************************START****************************************][20230303 13:06:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:06:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:07:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:07:13]  
+[sftpget.sh][*****************************START****************************************][20230303 13:08:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:08:13]  
+[sftpget.sh][*****************************START****************************************][20230303 13:09:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:09:09]  
+[sftpget.sh][*****************************START****************************************][20230303 13:10:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:10:10]  
+[sftpget.sh][*****************************START****************************************][20230303 13:11:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:11:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:12:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:12:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:13:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:13:13]  
+[sftpget.sh][*****************************START****************************************][20230303 13:14:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:14:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:15:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:15:09]  
+[sftpget.sh][*****************************START****************************************][20230303 13:44:29]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:44:37]  
+[sftpget.sh][*****************************START****************************************][20230303 13:45:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:45:12]  
+[sftpget.sh][*****************************START****************************************][20230303 13:46:02]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:46:13]  
+[sftpget.sh][*****************************START****************************************][20230303 13:47:02]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:47:14]  
+[sftpget.sh][*****************************START****************************************][20230303 13:48:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:48:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:49:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:49:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:50:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:50:13]  
+[sftpget.sh][*****************************START****************************************][20230303 13:51:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+rm: 无法删除 '*.*': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:51:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:52:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:52:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:53:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:53:07]  
+[sftpget.sh][*****************************START****************************************][20230303 13:54:01]  
+[sftpget.sh][download.sh ��ʼ []][20230303 13:54:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ []][20230303 13:54:13]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:54:13]  
+[sftpget.sh][*****************************START****************************************][20230303 13:55:01]  
+[sftpget.sh][download.sh ��ʼ []][20230303 13:55:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ []][20230303 13:55:11]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:55:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:56:01]  
+[sftpget.sh][download.sh ��ʼ []][20230303 13:56:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ []][20230303 13:56:13]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:56:13]  
+[sftpget.sh][*****************************START****************************************][20230303 13:57:01]  
+[sftpget.sh][download.sh ��ʼ ----------->--][20230303 13:57:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ ---------->--][20230303 13:57:11]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:57:11]  
+[sftpget.sh][*****************************START****************************************][20230303 13:58:01]  
+[sftpget.sh][download.sh ��ʼ ----------->--][20230303 13:58:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ ---------->--][20230303 13:58:09]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:58:09]  
+[sftpget.sh][*****************************START****************************************][20230303 13:59:02]  
+[sftpget.sh][download.sh ��ʼ ----------->--][20230303 13:59:02]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ ---------->--][20230303 13:59:11]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 13:59:12]  
+[sftpget.sh][*****************************START****************************************][20230303 14:00:01]  
+[sftpget.sh][download.sh ��ʼ ----------->--][20230303 14:00:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ ---------->--][20230303 14:00:10]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 14:00:11]  
+[sftpget.sh][*****************************START****************************************][20230303 14:01:01]  
+[sftpget.sh][download.sh ��ʼ ----------->--][20230303 14:01:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ ---------->--][20230303 14:01:12]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 14:01:13]  
+[sftpget.sh][*****************************START****************************************][20230303 14:02:01]  
+[sftpget.sh][download.sh ��ʼ ----------->--][20230303 14:02:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ ---------->--][20230303 14:02:12]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 14:02:12]  
+[sftpget.sh][*****************************START****************************************][20230303 14:03:01]  
+[sftpget.sh][download.sh ��ʼ ----------->--][20230303 14:03:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ ---------->--][20230303 14:03:13]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][***************************** END ****************************************][20230303 14:03:13]  
+[sftpget.sh][========================sftpget.sh START========================][20230303 14:04:01]  
+[sftpget.sh][download.sh ��ʼ][20230303 14:04:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ][20230303 14:04:11]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][========================sftpget.sh END  ========================][20230303 14:04:11]  
+[sftpget.sh][========================sftpget.sh START========================][20230303 14:05:01]  
+[sftpget.sh][download.sh ��ʼ][20230303 14:05:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ][20230303 14:05:09]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][========================sftpget.sh END  ========================][20230303 14:05:10]  
+[sftpget.sh][========================sftpget.sh START========================][20230303 14:06:01]  
+[sftpget.sh][download.sh ��ʼ][20230303 14:06:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][download2.sh ��ʼ][20230303 14:06:12]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][========================sftpget.sh END  ========================][20230303 14:06:12]  
+[sftpget.sh][========================START========================][20230303 14:07:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230303 14:07:13]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][========================END  ========================][20230303 14:07:13]  
+[sftpget.sh][========================START========================][20230303 14:08:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230303 14:08:13]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][========================END  ========================][20230303 14:08:13]  
+[sftpget.sh][========================START========================][20230303 14:09:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230303 14:09:11]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][========================END  ========================][20230303 14:09:11]  
+[sftpget.sh][========================START========================][20230303 14:10:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230303 14:10:11]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][========================END  ========================][20230303 14:10:11]  
+[sftpget.sh][========================START========================][20230303 14:11:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230303 14:11:11]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][========================END  ========================][20230303 14:11:11]  
+[sftpget.sh][========================START========================][20230303 14:12:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230303 14:12:13]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+[sftpget.sh][========================END  ========================][20230303 14:12:13]  
+[sftpget.sh][========================START========================][20230303 14:13:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230303 14:13:11]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][========================END  ========================][20230303 14:13:11]  
+[sftpget.sh][========================START========================][20230303 15:05:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230303 15:05:10]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][========================END  ========================][20230303 15:05:11]  
+[sftpget.sh][========================START========================][20230303 16:05:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230303 16:05:10]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+[sftpget.sh][========================END  ========================][20230303 16:05:11]  

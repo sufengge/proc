@@ -47,11 +47,17 @@ shlog()
 
 
 
-shlog $LINENO "*****************************${systime}START****************************************"
+shlog $LINENO "========================START========================"
 #下载数据
-sh download.sh ${SEVERDIR} ${CLIENTDIR} ${OKFILE} >> ${LOG} 2>&1
-shlog $LINENO "*****************************${systime} END ****************************************"
+sh ${WORKHOME}/script/download.sh ${SEVERDIR} ${CLIENTDIR} ${OKFILE} >> ${LOG} 2>&1
+shlog $LINENO "*****************************************************"
+sh ${WORKHOME}/script/download2.sh ${SEVERDIR} ${CLIENTDIR} ${OKFILE} >> ${LOG} 2>&1
+shlog $LINENO "========================END  ========================"
 exit 0
 
 
 
+
+
+
+#没有文件则终止脚本
