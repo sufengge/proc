@@ -1,0 +1,465 @@
+[sftpget.sh][========================START========================][20230306 11:00:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 11:00:09]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 11:00:10]  
+[sftpget.sh][========================START========================][20230306 11:10:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 11:10:12]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 11:10:12]  
+[sftpget.sh][========================START========================][20230306 11:20:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 11:20:10]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 11:20:11]  
+[sftpget.sh][========================START========================][20230306 11:30:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 11:30:12]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 11:30:13]  
+[sftpget.sh][========================START========================][20230306 11:40:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 11:40:10]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 11:40:11]  
+[sftpget.sh][========================START========================][20230306 11:50:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 11:50:10]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 11:50:11]  
+[sftpget.sh][========================START========================][20230306 12:00:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 12:00:11]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 12:00:11]  
+[sftpget.sh][========================START========================][20230306 12:10:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 12:10:13]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 12:10:13]  
+[sftpget.sh][========================START========================][20230306 13:00:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 13:00:12]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 13:00:13]  
+[sftpget.sh][========================START========================][20230306 13:10:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 13:10:12]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 13:10:13]  
+[sftpget.sh][========================START========================][20230306 13:20:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 13:20:12]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 13:20:13]  
+[sftpget.sh][========================START========================][20230306 13:30:29]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 13:30:53]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 13:30:54]  
+[sftpget.sh][========================START========================][20230306 13:40:01]  
+cd: 登录失败: 登入错误
+mirror: 登录失败: 登入错误
+ls: ls -l /home/sufg/proc/test//data/testdir/: 登录失败: 登入错误
+[sftpget.sh][*****************************************************][20230306 13:40:10]  
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+ls: 无法访问 'grep': 没有那个文件或目录
+ls: 无法访问 'matchname': 没有那个文件或目录
+get file successfully!
+no such identity: /home/sufg/.ssh/ftpkey: No such file or directory
+Permission denied, please try again.
+Permission denied, please try again.
+sufg@192.168.40.128: Permission denied (publickey,password).
+Connection closed.  
+Connection closed
+入口函数
+sftp_get start! 
+当前系统时间:20230306 
+P8DataPatch = [/home/sufg/proc/test/data/p8bak/20230306/]
+打开[/home/sufg/proc/test/etc/cupspl-sftp-parm.txt] 
+buf[sufg|@|22|@|192.168.40.128|@|/home/sufg/proc/test/data/testdir]
+第0个字符串[sufg] 
+第1个字符串[22] 
+第2个字符串[192.168.40.128] 
+第3个字符串[/home/sufg/proc/test/data/testdir] 
+cmdbuf= [cp /home/sufg/proc/test/data/testdir/* /home/sufg/proc/test/data/p5dir/] 
+开始检查p5下的文件[/home/sufg/proc/test/data/p5dir/] 
+filename[/home/sufg/proc/test/data/p5dir//asdda.txt] size: [41]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+filename[/home/sufg/proc/test/data/p5dir//sufg.tar.gz] size: [159]bytes 	   bakdir[/home/sufg/proc/test/data/p8bak/20230306/]
+程序结束!
+[sftpget.sh][========================END  ========================][20230306 13:40:11]  

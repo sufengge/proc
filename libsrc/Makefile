@@ -1,23 +1,19 @@
-TARGET = mytest
+TARGET = libmytest.a
 
-
-
-SRC_DIR = /home/sufg/proc/src
-BIN_DIR = /home/sufg/proc/bin
+SRC_DIR = /home/sufg/proc/libsrc/
+BIN_DIR = /home/sufg/proc/lib/
 SRC_SUBDIR += .
 INCLUDE_DIR += /home/sufg/proc/include/
-IIBDIR += /home/sufg/proc/lib/
-LIBNAME += mytest
-OBJ_DIR = /home/sufg/proc/OBJ/
+OBJ_DIR = /home/sufg/proc/libsrc/OBJ/
 
 
-
+AR= ar
 CC = gcc
-C_FLAGS = -g -Wall
-LD = $(CC)
+C_FLAGS =
+LD = $(AR)
 INCLUDES += -I$(INCLUDE_DIR)
-LD_FLAFS += -L$(IIBDIR)
-LD_LIBS += -l$(LIBNAME)
+LD_FLAFS +=
+LD_LIBS =
 
 ifeq ($(CC), g++)
 	    TYPE = cpp
@@ -32,25 +28,25 @@ vpath %.$(TYPE) $(sort $(dir $(SRCS)))
 
 all : $(TARGET)
 	    @echo "Builded target:" $^
-	    @echo "Done"
-		mv $^ $(BIN_DIR)
+	        @echo "Done"
+				mv $^ $(BIN_DIR)
 
 $(TARGET) : $(OBJS)
 	    @mkdir -p $(@D)
-		@echo "Linking" $@ "from" $^ "..."
-		$(LD) -o $@ $^ $(LD_FLAGS) $(LD_FLAFS) $(LD_LIBS)
-		@echo "Link finished\n"
+	        @echo "Linking" $@ "from" $^ "..."
+		    $(LD) -rc $@ $^ $(LD_FLAFS) $(LD_LIBS)
+		        @echo "Link finished\n"
 
 $(OBJS) : $(OBJ_DIR)/%.o:%.$(TYPE)
 	    @mkdir -p $(@D)
-		@echo "Compiling" $@ "from" $< "..."
-		$(CC) -c -o $@ $< $(C_FLAGS) $(INCLUDES)
-		@echo "==================Compile [$^] finished!=================\n"
+	        @echo "Compiling" $@ "from" $< "..."
+		    $(CC) -c -o $@ $< $(C_FLAGS) $(INCLUDES)
+		        @echo "==================Compile [$^] finished!=================\n"
 
 .PHONY : clean cleanobj
 clean : cleanobj
 	    @echo "Remove all executable files"
-		rm -f $(TARGET)
+	        rm -f $(TARGET)
 cleanobj :
 	    @echo "Remove object files"
-		rm -rf $(OBJ_DIR)/*.o
+	        rm -rf $(OBJ_DIR)/*.o
